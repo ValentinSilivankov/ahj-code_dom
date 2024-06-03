@@ -1,6 +1,6 @@
 # Домашнее задание к занятию "2. DOM"
 
-![CI](https://github.com/ValentinSilivankov/ahj-code_dom/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/ValentinSilivankov/ajs-code_dom/actions/workflows/web.yml/badge.svg)
 
 Правила сдачи задания:
 
